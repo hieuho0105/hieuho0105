@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hieuho0105
 - 👀 I’m interested in Embedded system
-- 🌱 I’m currently learning Telecomunication and Electroinc
+- 🌱 I’m currently learning Telecomunication and Electronic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
