@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hieuho0105
-- 👀 I’m interested in Embedded system
 - 🌱 I’m currently learning Telecomunication and Electronic
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in Embedded System
 
 <!---
 hieuho0105/hieuho0105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
